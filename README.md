@@ -38,7 +38,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-![Uploading EX 5.1 Drawing v1 kasi_page-0001.jpg…]()
+
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
