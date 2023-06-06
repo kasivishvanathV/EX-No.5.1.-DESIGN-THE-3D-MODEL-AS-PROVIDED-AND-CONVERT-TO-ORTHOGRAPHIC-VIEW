@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 ## OUTPUT
+
 ![EX 5 1 Drawing v1 kasi_page-0001](https://github.com/kasivishvanathV/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/118787417/e315eb4b-824a-4a08-9613-26043fb3b010)
 
 
